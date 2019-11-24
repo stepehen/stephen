@@ -7,5 +7,20 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "characters": [
+  {
+    "id": 1,
+    "name": "Stephen Nieuwelaar",
+    "gender": "male",
+    "age": 29
+  },
+  {
+    "id": 2,
+    "name": "Kaitlin Nieuwelaar",
+    "gender": "female",
+    "age": 27
   }
+]
+
 }
