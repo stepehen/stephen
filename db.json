@@ -20,6 +20,12 @@
     "name": "Kaitlin Nkieuwelaar",
     "gender": "female",
     "age": 27
+  },
+  {
+    "id": 3,
+    "name": "DD New Powley",
+    "gender": "female",
+    "age": 2
   }
 ]
 
