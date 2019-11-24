@@ -17,7 +17,7 @@
   },
   {
     "id": 2,
-    "name": "Kaitlin Nkieuwelaar",
+    "name": "Kaitlin Nieuwelaar",
     "gender": "female",
     "age": 27
   },
@@ -26,6 +26,12 @@
     "name": "DD New Powley",
     "gender": "female",
     "age": 2
+  },
+  {
+    "id": 4,
+    "name": "Luna Powley",
+    "gender": "female",
+    "age": 5
   }
 ]
 
